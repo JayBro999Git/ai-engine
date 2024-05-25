@@ -13,7 +13,7 @@ const fontSans = FontSans({
   variable: '--font-sans'
 })
 
-const title = 'Morphic'
+const title = 'BBHS AI'
 const description =
   'A fully open-source AI-powered answer engine with a generative UI.'
 
